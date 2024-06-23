@@ -2,6 +2,8 @@
 
 This application allows you to generate a JSON dataset from ChatGPT conversations shared via a URL.
 
+Link to Streamlit App https://chatgpt-dataset-generator.streamlit.app/
+
 ## Features
 
 - Extracts ChatGPT conversation data from a shareable URL.

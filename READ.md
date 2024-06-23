@@ -57,7 +57,7 @@ This application allows you to generate a JSON dataset from ChatGPT conversation
 
 ## Meta
 
-- **Author:** Your Name
+- **Author:** Anthony Tatekawa
 - **Description:** Generate a JSON dataset from ChatGPT conversations.
 - **Keywords:** ChatGPT, JSON dataset generator, Streamlit app
 

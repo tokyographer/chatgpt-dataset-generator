@@ -12,7 +12,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title('ChatGPT Conversation Scraper')
+st.title('ChatGPT JSON Dataset Generator')
 
 # Adding a description below the title
 st.write("""
